@@ -1,11 +1,12 @@
 ### Hello World, I'm Anica 👋
 
-#### Personal Profile
+#### About Me
 - 🎓 Nursing at the University of Nottingham
 - 👩🏻‍🔬 Professional Hair Transplant Technician
 - 🎥 Youtuber
 - 🌍 Solo Traveller
 - 📚 Personal Finance and Self-Development books
+- 🗣 Bengali, Italian and English
 
 #### Tech Profile
 - 💻 Completed a Full-Stack Software Development intensive course at Boolean UK
