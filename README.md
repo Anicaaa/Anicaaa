@@ -15,6 +15,5 @@
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Languages, Technologies and Tools
-HTML, CSS, JavaScript, React, Node.js, Express, PostgreSQL, Insomnia and Git.
-
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs)](https://skills.thijs.gg) 
+<hr>
