@@ -15,5 +15,5 @@
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Languages, Technologies and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,postgres,prisma,git)](https://skills.thijs.gg) 
 <hr>
