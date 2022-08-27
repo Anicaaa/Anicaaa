@@ -2,7 +2,6 @@
 
 #### About Me
 - 🎓 Nursing at the University of Nottingham
-- 👩🏻‍🔬 Professional Hair Transplant Technician
 - 🎥 Youtuber
 - 🌍 Solo Traveller
 - 📚 Personal Finance and Self-Development books
