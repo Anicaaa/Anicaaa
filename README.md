@@ -1,8 +1,7 @@
 ### Hello World, I'm Anica 👋
 
 #### About Me
-- 🎓 Nursing at the University of Nottingham
-- 🎥 Youtuber
+- 🎥 Content Creator
 - 🌍 Solo Traveller
 - 📚 Personal Finance and Self-Development books
 - 🗣 Bengali, Italian and English
