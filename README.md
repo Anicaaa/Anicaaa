@@ -2,8 +2,9 @@
 
 #### About Me
 - 🎥 Content Creator
+- 🌱 Nature
 - 🌍 Solo Traveller
-- 📚 Personal Finance and Self-Development books
+- 📚 Self-Development and Spirituality books
 - 🗣 Bengali, Italian and English
 
 #### Tech Profile
