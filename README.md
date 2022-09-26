@@ -2,7 +2,7 @@
 
 #### About Me
 - 🎥 Content Creator
-- 🌱 Nature
+- 🌱 Nature & Silence
 - 🌍 Solo Traveller
 - 📚 Self-Development and Spirituality books
 - 🗣 Bengali, Italian and English
