@@ -17,7 +17,8 @@
 - Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
 - Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
 - Weather-App https://github.com/Anicaaa/Weather-App-JS
-- Job-Search-App 
+- Job-Search-App https://github.com/Anicaaa/Job-Search-App
+- Where Next Frontend: https://github.com/Anicaaa/solo-project-client & Backend: https://github.com/Anicaaa/solo-project-server
 
 #### Languages, Technologies and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,postgres,prisma,git)](https://skills.thijs.gg) 
