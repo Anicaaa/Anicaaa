@@ -23,3 +23,7 @@
 #### Languages, Technologies and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,postgres,prisma,git)](https://skills.thijs.gg) 
 <hr>
+
+### Codewars
+
+<img align="center" src="https://www.codewars.com/users/Anica/badges/large" />
