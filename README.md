@@ -26,4 +26,4 @@
 
 ### Codewars
 
-<img align="center" src="https://www.codewars.com/users/Anica" />
+<img align="center" src="https://www.codewars.com/users/Anica/badges/large" />
