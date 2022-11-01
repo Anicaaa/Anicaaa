@@ -15,6 +15,7 @@
 
 ### Projects
 - Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
+- Digital Clock https://github.com/Anicaaa/digital-clock-js
 - Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
 - Weather-App https://github.com/Anicaaa/Weather-App-JS
 - Job-Search-App https://github.com/Anicaaa/Job-Search-App
