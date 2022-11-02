@@ -13,7 +13,7 @@
 - 🤔 I am looking for a job as a Front-End Developer
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
-### Projects
+#### Projects
 - Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
 - Digital Clock https://github.com/Anicaaa/digital-clock-js
 - Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
@@ -23,8 +23,7 @@
 
 #### Languages, Technologies and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,postgres,prisma,git)](https://skills.thijs.gg) 
-<hr>
 
-### Codewars
+#### Codewars
 
 <img align="center" src="https://www.codewars.com/users/Anica/badges/large" />
