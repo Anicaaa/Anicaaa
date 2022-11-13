@@ -11,12 +11,10 @@
 - 💻 Completed a Full-Stack Software Development intensive course at Boolean UK
 - 👯 Currently improving my problem solving skills on CodeWars
 - 🤔 I am looking for a job as a Front-End Developer
+- My Personal portfolio: eloquent-flan-38b540.netlify.app (copy and paste on your browser)
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Projects
-
-My Personal portfolio: eloquent-flan-38b540.netlify.app
-
 - Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
 - Digital Clock https://github.com/Anicaaa/digital-clock-js
 - Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
