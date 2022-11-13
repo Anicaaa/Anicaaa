@@ -14,6 +14,9 @@
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Projects
+
+My Personal portfolio: eloquent-flan-38b540.netlify.app
+
 - Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
 - Digital Clock https://github.com/Anicaaa/digital-clock-js
 - Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
