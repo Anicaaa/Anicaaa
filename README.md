@@ -11,16 +11,16 @@
 - 💻 Completed a Full-Stack Software Development intensive course at Boolean UK
 - 👯 Currently improving my problem solving skills on CodeWars
 - 🤔 I am looking for a job as a Front-End Developer
-- My Personal portfolio: https://eloquent-flan-38b540.netlify.app
+- 🖼 My Personal portfolio: https://eloquent-flan-38b540.netlify.app
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Projects
-- Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
-- Digital Clock https://github.com/Anicaaa/digital-clock-js
-- Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
-- Weather-App https://github.com/Anicaaa/Weather-App-JS
-- Job-Search-App https://github.com/Anicaaa/Job-Search-App
-- Where Next Frontend: https://github.com/Anicaaa/solo-project-client & Backend: https://github.com/Anicaaa/solo-project-server
+- 💡 Switch Light Bulb On and Off https://github.com/Anicaaa/Switch-Bulb
+- 🕰 Digital Clock https://github.com/Anicaaa/digital-clock-js
+- 📝 Easy To-Do-List https://github.com/Anicaaa/easy-todolist-js
+- 🌤 Weather-App https://github.com/Anicaaa/Weather-App-JS
+- 💼 Job-Search-App https://github.com/Anicaaa/Job-Search-App
+- 🤔 Where Next Frontend: https://github.com/Anicaaa/solo-project-client & Backend: https://github.com/Anicaaa/solo-project-server
 
 #### Languages, Technologies and Tools
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,react,postgres,prisma,git)](https://skills.thijs.gg) 
