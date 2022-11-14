@@ -11,7 +11,7 @@
 - 💻 Completed a Full-Stack Software Development intensive course at Boolean UK
 - 👯 Currently improving my problem solving skills on CodeWars
 - 🤔 I am looking for a job as a Front-End Developer
-- My Personal portfolio: eloquent-flan-38b540.netlify.app (copy and paste on your browser)
+- My Personal portfolio: https://eloquent-flan-38b540.netlify.app
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Projects
