@@ -8,7 +8,6 @@
 
 #### Tech Profile
 - 💻 Completed an intensive Full-Stack Software Development course at Boolean UK
-- 🤔 I am currently working as a Junior Frontend Developer at Wikicasa
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/anica-rahman-64321b21b/
 
 #### Languages, Technologies and Tools
