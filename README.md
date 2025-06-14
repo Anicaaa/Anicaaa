@@ -1,10 +1,8 @@
 ### Hello World, I'm Anica 👋
 
 #### About Me
-- 🌍 Travelled to 11 countries
-- 🗣 Able to speak 3 languages
-- 🏡 Lived in 3 countries
-- 🎥 Content creator on YouTube
+- 50% Asian 🥘 and 50% European 🇪🇺
+- 🗣 Trilingual
 
 #### Tech Profile
 - 💻 Completed an intensive Full-Stack Software Development course at Boolean UK
